@@ -1,0 +1,324 @@
+*{
+   margin: 0%; 
+   padding: 0%;
+   border: 0%;
+   outline: 0%;
+   box-sizing: border-box;
+}
+section{
+    padding: 100px 0px;
+    text-align: center;
+}
+.heading{
+  font-size: 35px;  
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: inherit;
+  line-height: 35px;
+
+}
+.sub-heading{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.p{
+    font-size: 17px;
+    font-weight: 300;
+
+}
+.underline{
+  border-top:5px solid ; 
+  color: aliceblue; 
+  width: 5%;
+  margin: 20px auto;
+
+}
+.contaner{
+    width: 90%;
+    margin: auto;
+}
+header{
+    background-color: #87509c;
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+}
+nav{
+    width: 100%;
+    float: left;
+    padding:10px 0px ;
+
+}
+.logo-part{
+    width: 50%;
+    float: left;
+
+}
+.logo-part img{
+
+}
+.menu-part{
+    width: 50%;
+    float: left;
+
+}
+.menu-part ul{
+    text-align: right;
+    color: white;
+
+}
+.menu-part li a{
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.menu-part li {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+
+    
+    
+
+}
+.hero-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: white;
+    padding: 100px;
+
+}
+.hero-part h1{
+
+}
+.hero-part button{
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    background-color: #eb7d4b;
+
+}
+#service{
+    background-color:#17c2a4;
+    width: 100%;
+    float: left;
+    
+    color: white;
+
+}
+.service-writeing-part{
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+
+}
+.service-box-part{
+    width: 100%;
+    float: left;
+
+}
+.service-box{
+    width: 25%;
+    float: left;
+    .service-box img{
+       max-height: 126px; 
+
+    }
+
+}
+#team{
+    width: 100%;
+    float: left;
+    background-color: #e7f1f8;
+    text-align: center;
+
+}
+.team-writing-part{
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+
+}
+.team-box-part{
+    width: 100%;
+    float: left;
+
+}
+.team-box{
+    width: 25%;
+    float: left;
+    text-align: center;
+
+}
+.team-box img{
+
+
+}
+.team-social-icon{
+    font-size: 25px;
+    padding: 10px;
+    background: none;
+    border-radius: 50%;
+
+}
+#skill{
+    width: 100%;
+    float: left;
+    background-color: white;
+    text-align: center;
+
+}
+.skill-writing-part{
+    width: 100%;
+    float: left;
+
+}
+.skill-box-part{
+    width: 100%;
+    float: left;
+
+}
+.skill-box{
+    width: 25%;
+    float: left;
+    text-align: center;
+
+}
+#proto{
+    width: 100%;
+    float: left;
+    background-color: #ffdd99;
+    text-align: center;
+
+}
+.proto-writing-part{
+    width: 100%;
+    float: left;
+
+}
+.proto-box-part{
+    width: 100%;
+    float: left;
+
+}
+.proto-box{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.proto button{
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    color: white;
+    background-color: #eb7d4b;
+
+
+}
+#about{
+    width: 100%;
+    float: left;
+    background-color: #d74680;
+    text-align: center;
+    
+
+    
+    
+
+
+}
+.about-writing-part{
+    width: 100%;
+    float: left;
+
+}
+.about-box-part{
+    width: 100%;
+    float: left;
+
+}
+.about-box{
+    width: 50%;
+    
+    text-align: center;
+    float: left;
+
+
+}
+#form-section{
+    background-color: #336699;
+    color: white;
+}
+input{
+    background-color: #333366;
+    width: 38%;
+    padding: 15px;
+    margin-left: 24px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+textarea{
+    width: 80%;
+    margin-left: 24px;
+    padding: 55px;
+    background-color: #333366;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+#form-section button{
+    background-color: #33ccff;
+    border-style: solid;
+    border-width: 0px 0px 3px ;
+    border-color: #3399cc;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+    #footer-part{
+        background-color: #333399;
+        float: left;
+        width: 100%;
+        /* height: 90px; */
+        
+    }
+    nav{
+        text-align: center;
+    
+    }
+    ul{
+    
+    }
+    li{
+        list-style: none;
+        display: inline-block;
+        padding: 0px 21px;
+    
+    
+    }
+    li a{
+        text-decoration: none;
+        color: white;
+        font-size: 19px;
+        font-weight: bold;
+    }
+    li a:hover{
+        color: #33ccff;
+    }
+    
+    
+
+
+
+
+    
+    
+
+
+    
